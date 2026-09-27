@@ -1,0 +1,11 @@
+{
+  "fictional": true,
+  "target": {
+    "company": "Northstar Ledger",
+    "domain": "northstar-ledger.example",
+    "sector": "invoice workflow software",
+    "size_hint": "unknown",
+    "github_org": "northstar-ledger-example"
+  },
+  "retrieved_at": "2026-09-27"
+}
